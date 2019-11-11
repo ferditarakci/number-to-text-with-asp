@@ -10,7 +10,7 @@ Responsive.Write NumberToTurkishLira( -0.50 )
 - Eksi Elli Kuruş
 ```
 
-```
+```ruby
 Responsive.Write NumberToTurkishLira( -13.11 )
 - Eksi On Üç Lira, On Bir Kuruş
 ```
